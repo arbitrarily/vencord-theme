@@ -2,7 +2,7 @@
  * @name marko-midnight
  * @description A dark, rounded discord theme.
  * @author refact0r
- * @version 1.7.0
+ * @version 1.7.1
  * @invite nz87hXyvcy
  * @website https://github.com/refact0r/midnight-discord
  * @source https://github.com/refact0r/midnight-discord/blob/master/midnight.theme.css
@@ -1278,7 +1278,7 @@ button.button__581d0
 
 /* modify embeds */
 .embedFull__14919 {
-  border: 4px solid var(--accent-3) !important;
+  border: 4px solid var(--accent-1) !important;
   border-top: none !important;
   border-bottom: none !important;
   border-right: none !important;
