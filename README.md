@@ -1,4 +1,4 @@
-![image](https://github.com/arbitrarily/vencord-theme/assets/899183/8171e7db-8e39-4b31-b371-8fa6b79c27f2)
+![image](https://github.com/arbitrarily/vencord-theme/assets/899183/014ec0ef-f466-49d0-9761-545c27796862)
 
 branched off: [https://github.com/refact0r/midnight-discord/blob/master/midnight.theme.css](https://github.com/refact0r/midnight-discord/blob/master/midnight.theme.css)
 
