@@ -2,7 +2,7 @@
  * @name marko-midnight
  * @description A dark, rounded discord theme.
  * @author refact0r
- * @version 1.6.2
+ * @version 1.7.0
  * @invite nz87hXyvcy
  * @website https://github.com/refact0r/midnight-discord
  * @source https://github.com/refact0r/midnight-discord/blob/master/midnight.theme.css
@@ -616,7 +616,7 @@ svg[fill='#593695'] {
   background: var(--background-primary);
   width: 100%;
   height: 48px;
-  border-radius: var(--roundness-xl) var(--roundness-xl) 0 0;
+  border-radius: 0;
 }
 
 .wrapper__6bf2d.minimum__7f356~.content__01e65 .container__93316::before
@@ -1570,7 +1570,7 @@ html.theme-light,
   --live-stage-tile-border: hsl(var(--primary-500-hsl) / 0.6);
   --logo-primary: var(--white-500);
   --mention-background: var(--accent-3);
-  --mention-foreground: var(--accent-3);
+  --mention-foreground: var(--text-0);
   --modal-background: var(--bg-4);
   --modal-footer-background: var(--bg-4);
   --navigator-header-tint: var(--white-500);
@@ -1846,4 +1846,5 @@ code {
   background-color: var(--accent-3) !important;
   border-color: var(--accent-3) !important;
   padding: 0.1em 0.2em !important;
+  border-radius: 0 !important;
 }
